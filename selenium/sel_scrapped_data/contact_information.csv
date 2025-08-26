@@ -1,0 +1,26 @@
+type,value,source_section
+email,info@sab.ac.lk,footer
+phone,+94-45-2280014,footer
+phone,+94-45-2280087,footer
+address,"Sabaragamuwa University of Sri Lanka,",footer
+address,"P.O. Box 02, Belihuloya, 70140, Sri Lanka",footer
+email,info@sab.ac.lk,.contact-info
+phone,+94-45-2280014,.contact-info
+phone,+94-45-2280087,.contact-info
+address,"Sabaragamuwa University of Sri Lanka,",.contact-info
+address,"P.O. Box 02, Belihuloya, 70140, Sri Lanka",.contact-info
+email,info@sab.ac.lk,.contact-info
+phone,+94-45-2280014,.contact-info
+phone,+94-45-2280087,.contact-info
+address,"Sabaragamuwa University of Sri Lanka,",.contact-info
+address,"P.O. Box 02, Belihuloya, 70140, Sri Lanka",.contact-info
+email,info@sab.ac.lk,.footer
+phone,+94-45-2280014,.footer
+phone,+94-45-2280087,.footer
+address,"Sabaragamuwa University of Sri Lanka,",.footer
+address,"P.O. Box 02, Belihuloya, 70140, Sri Lanka",.footer
+email,info@sab.ac.lk,#footer
+phone,+94-45-2280014,#footer
+phone,+94-45-2280087,#footer
+address,"Sabaragamuwa University of Sri Lanka,",#footer
+address,"P.O. Box 02, Belihuloya, 70140, Sri Lanka",#footer
